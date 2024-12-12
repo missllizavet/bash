@@ -1,4 +1,5 @@
 #!/bin/bash
+# Task 2 
 
 # Проверка существования файла .bashrc
 if [ ! -f "$HOME/.bashrc" ]; then
